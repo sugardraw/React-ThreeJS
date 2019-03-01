@@ -1,5 +1,5 @@
 {
-  "name": "portfolio_website",
+  "name": "changing-threejs-geometry",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -44,12 +44,12 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sugardraw/portfolio_website.git"
+    "url": "git+https://github.com/sugardraw/React-ThreeJS"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sugardraw/portfolio_website/issues"
+    "url": "https://github.com/sugardraw/React-ThreeJS/issues"
   },
-  "homepage": "https://github.com/sugardraw/portfolio_website#readme"
+  "homepage": "https://github.com/sugardraw/React-ThreeJS#readme"
 }
