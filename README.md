@@ -1,0 +1,11 @@
+
+## Putting together react and ThreeJS
+
+### Select diferent Geometries and show them in 3D
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
+
+
+

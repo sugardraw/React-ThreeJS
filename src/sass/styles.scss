@@ -1,0 +1,142 @@
+@import "../../node_modules/bootstrap/scss/bootstrap";
+@import url('https://fonts.googleapis.com/css?family=Inconsolata');
+
+body, select, label{
+  font-family: 'Inconsolata', monospace !important;
+  font-weight: bold;
+}
+
+/* desktop-x-small */
+@media all and (min-width: 0) and (max-width: 480px) {
+  .canvas-canvas {
+    height: 65vh;
+    width: 100%;
+  }
+}
+
+/* desktop-small */
+@media all and (min-width: 481px) and (max-width: 840px) {
+  .canvas-canvas {
+    height: 65vh;
+    width: 100%;
+  }
+}
+
+/* desktop-medium */
+@media all and (min-width: 841px) and (max-width: 1280px) {
+  .canvas-canvas {
+    height: 95vh;
+    width: 100%;
+  }
+}
+
+/* desktop-large */
+@media all and (min-width: 1281px) and (max-width: 1600px) {
+  .canvas-canvas {
+    height: 70vh;
+    width: 100%;
+  }
+}
+
+/* desktop-xlarge */
+@media all and (min-width: 1601px) {
+  .canvas-canvas {
+    height: 100vh;
+    width: 100%;
+  }
+}
+
+.container-fluid {
+
+  width: 100%;
+  padding-right: 0px !important;
+  padding-left: 0px !important;
+}
+
+
+
+.canvas-canvas {
+  
+  height: 100vh;
+  width: 100%;
+}
+
+
+
+button:focus {
+  outline: none !important;
+}
+
+svg {
+  margin-left: 47vw;
+  bottom: 9rem;
+  position: relative;
+}
+
+#scroll-arrow-bottom {
+  bottom: -26rem;
+  transform: rotateZ(180deg);
+}
+
+@media screen and (max-width: 720px) {
+  svg {
+    margin-left: 40vw;
+    transform: scale(0.7);
+  }
+  .navbar-toggler {
+    transform: scale(0.8);
+    right: 1rem !important;
+  }
+}
+
+//welcome text and intro
+
+.intro {
+  width: 100vw;
+  height: 100vh;
+  font-family: "Poiret One", cursive;
+  
+  
+}
+
+.intro-text {
+  margin: 10rem 3rem 0rem 4rem !important;
+  z-index: 1100 !important;
+  max-width: 40vw;
+  font-family: monospace;
+}
+
+.intro-img {
+  width: 50vw;
+  margin-top: -21rem;
+  height: 88vh;
+  transform: skewY(35deg);
+  background-color: blue;
+}
+
+@media screen and (max-width: 1400px) {
+  .intro-text {
+    font-size: 3.7rem;
+  }
+  .intro-img {
+    height: 77vh;
+  }
+}
+
+@media screen and (max-width: 1120px) {
+  .intro-text {
+    max-width: 100vw;
+  }
+  .intro-img {
+    width: 100vw;
+    background: linear-gradient(-216deg, white 23%, blue 23.1%);
+  }
+}
+
+@media screen and (max-width: 720px) {
+  .intro-text {
+    text-align: center;
+    margin: 5rem 1.5rem 0rem 2rem !important;
+    font-size: 8.6vw;
+  }
+}
