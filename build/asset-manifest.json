@@ -1,14 +1,14 @@
 {
-  "main.css": "/sugardraw/portfolio_website/static/css/main.7d804346.chunk.css",
-  "main.js": "/sugardraw/portfolio_website/static/js/main.86db3fdc.chunk.js",
-  "main.js.map": "/sugardraw/portfolio_website/static/js/main.86db3fdc.chunk.js.map",
-  "static/js/1.818072a3.chunk.js": "/sugardraw/portfolio_website/static/js/1.818072a3.chunk.js",
-  "static/js/1.818072a3.chunk.js.map": "/sugardraw/portfolio_website/static/js/1.818072a3.chunk.js.map",
-  "runtime~main.js": "/sugardraw/portfolio_website/static/js/runtime~main.d5d7b175.js",
-  "runtime~main.js.map": "/sugardraw/portfolio_website/static/js/runtime~main.d5d7b175.js.map",
-  "static/media/dummy.obj": "/sugardraw/portfolio_website/static/media/dummy.7f8820f7.obj",
-  "static/css/main.7d804346.chunk.css.map": "/sugardraw/portfolio_website/static/css/main.7d804346.chunk.css.map",
-  "index.html": "/sugardraw/portfolio_website/index.html",
-  "precache-manifest.70b8e4e2d78b1d54defc02ca1587dd6a.js": "/sugardraw/portfolio_website/precache-manifest.70b8e4e2d78b1d54defc02ca1587dd6a.js",
-  "service-worker.js": "/sugardraw/portfolio_website/service-worker.js"
+  "main.css": "/sugardraw/React-ThreeJS/static/css/main.7d804346.chunk.css",
+  "main.js": "/sugardraw/React-ThreeJS/static/js/main.4410f664.chunk.js",
+  "main.js.map": "/sugardraw/React-ThreeJS/static/js/main.4410f664.chunk.js.map",
+  "static/js/1.818072a3.chunk.js": "/sugardraw/React-ThreeJS/static/js/1.818072a3.chunk.js",
+  "static/js/1.818072a3.chunk.js.map": "/sugardraw/React-ThreeJS/static/js/1.818072a3.chunk.js.map",
+  "runtime~main.js": "/sugardraw/React-ThreeJS/static/js/runtime~main.431fc2ea.js",
+  "runtime~main.js.map": "/sugardraw/React-ThreeJS/static/js/runtime~main.431fc2ea.js.map",
+  "static/media/dummy.obj": "/sugardraw/React-ThreeJS/static/media/dummy.7f8820f7.obj",
+  "static/css/main.7d804346.chunk.css.map": "/sugardraw/React-ThreeJS/static/css/main.7d804346.chunk.css.map",
+  "index.html": "/sugardraw/React-ThreeJS/index.html",
+  "precache-manifest.32f41d98e9b748baba0bc90943fa4b66.js": "/sugardraw/React-ThreeJS/precache-manifest.32f41d98e9b748baba0bc90943fa4b66.js",
+  "service-worker.js": "/sugardraw/React-ThreeJS/service-worker.js"
 }

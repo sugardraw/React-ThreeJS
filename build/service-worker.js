@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/sugardraw/portfolio_website/precache-manifest.70b8e4e2d78b1d54defc02ca1587dd6a.js"
+  "/sugardraw/React-ThreeJS/precache-manifest.32f41d98e9b748baba0bc90943fa4b66.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/sugardraw/portfolio_website/index.html", {
+workbox.routing.registerNavigationRoute("/sugardraw/React-ThreeJS/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
